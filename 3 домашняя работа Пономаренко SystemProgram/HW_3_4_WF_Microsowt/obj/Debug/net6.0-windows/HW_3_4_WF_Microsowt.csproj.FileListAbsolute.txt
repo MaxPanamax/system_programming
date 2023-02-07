@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\HW_3_4_WF_Microsowt\obj\Debug\net6.0-windows\HW_3_4_WF_Microsowt.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\HW_3_4_WF_Microsowt\obj\Debug\net6.0-windows\MainApplication.FormMain.resources
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\HW_3_4_WF_Microsowt\obj\Debug\net6.0-windows\HW_3_4_WF_Microsowt.csproj.GenerateResource.cache
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\HW_3_4_WF_Microsowt\obj\Debug\net6.0-windows\HW_3_4_WF_Microsowt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\HW_3_4_WF_Microsowt\obj\Debug\net6.0-windows\HW_3_4_WF_Microsowt.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\HW_3_4_WF_Microsowt\obj\Debug\net6.0-windows\HW_3_4_WF_Microsowt.AssemblyInfo.cs
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\HW_3_4_WF_Microsowt\obj\Debug\net6.0-windows\HW_3_4_WF_Microsowt.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\HW_3_4_WF_Microsowt\bin\Debug\net6.0-windows\HW_3_4_WF_Microsowt.exe
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\HW_3_4_WF_Microsowt\bin\Debug\net6.0-windows\HW_3_4_WF_Microsowt.deps.json
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\HW_3_4_WF_Microsowt\bin\Debug\net6.0-windows\HW_3_4_WF_Microsowt.runtimeconfig.json
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\HW_3_4_WF_Microsowt\bin\Debug\net6.0-windows\HW_3_4_WF_Microsowt.dll
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\HW_3_4_WF_Microsowt\bin\Debug\net6.0-windows\HW_3_4_WF_Microsowt.pdb
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\HW_3_4_WF_Microsowt\obj\Debug\net6.0-windows\HW_3_4_WF_Microsowt.dll
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\HW_3_4_WF_Microsowt\obj\Debug\net6.0-windows\refint\HW_3_4_WF_Microsowt.dll
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\HW_3_4_WF_Microsowt\obj\Debug\net6.0-windows\HW_3_4_WF_Microsowt.pdb
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\HW_3_4_WF_Microsowt\obj\Debug\net6.0-windows\HW_3_4_WF_Microsowt.genruntimeconfig.cache
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\HW_3_4_WF_Microsowt\obj\Debug\net6.0-windows\ref\HW_3_4_WF_Microsowt.dll

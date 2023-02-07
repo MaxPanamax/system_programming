@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\HW_Lis_7_2_Salf_w\bin\Debug\net6.0\HW_Lis_7_2_Salf_w.exe
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\HW_Lis_7_2_Salf_w\bin\Debug\net6.0\HW_Lis_7_2_Salf_w.deps.json
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\HW_Lis_7_2_Salf_w\bin\Debug\net6.0\HW_Lis_7_2_Salf_w.runtimeconfig.json
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\HW_Lis_7_2_Salf_w\bin\Debug\net6.0\HW_Lis_7_2_Salf_w.dll
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\HW_Lis_7_2_Salf_w\bin\Debug\net6.0\HW_Lis_7_2_Salf_w.pdb
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\HW_Lis_7_2_Salf_w\obj\Debug\net6.0\HW_Lis_7_2_Salf_w.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\HW_Lis_7_2_Salf_w\obj\Debug\net6.0\HW_Lis_7_2_Salf_w.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\HW_Lis_7_2_Salf_w\obj\Debug\net6.0\HW_Lis_7_2_Salf_w.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\HW_Lis_7_2_Salf_w\obj\Debug\net6.0\HW_Lis_7_2_Salf_w.AssemblyInfo.cs
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\HW_Lis_7_2_Salf_w\obj\Debug\net6.0\HW_Lis_7_2_Salf_w.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\HW_Lis_7_2_Salf_w\obj\Debug\net6.0\HW_Lis_7_2_Salf_w.dll
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\HW_Lis_7_2_Salf_w\obj\Debug\net6.0\refint\HW_Lis_7_2_Salf_w.dll
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\HW_Lis_7_2_Salf_w\obj\Debug\net6.0\HW_Lis_7_2_Salf_w.pdb
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\HW_Lis_7_2_Salf_w\obj\Debug\net6.0\HW_Lis_7_2_Salf_w.genruntimeconfig.cache
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\HW_Lis_7_2_Salf_w\obj\Debug\net6.0\ref\HW_Lis_7_2_Salf_w.dll

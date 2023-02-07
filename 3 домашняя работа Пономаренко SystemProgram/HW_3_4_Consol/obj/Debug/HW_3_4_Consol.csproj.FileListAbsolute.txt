@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\HW_3_4_Consol\bin\Debug\HW_3_4_Consol.exe.config
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\HW_3_4_Consol\bin\Debug\HW_3_4_Consol.exe
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\HW_3_4_Consol\bin\Debug\HW_3_4_Consol.pdb
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\HW_3_4_Consol\obj\Debug\HW_3_4_Consol.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\HW_3_4_Consol\obj\Debug\HW_3_4_Consol.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\HW_3_4_Consol\obj\Debug\HW_3_4_Consol.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\HW_3_4_Consol\obj\Debug\HW_3_4_Consol.exe
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\HW_3_4_Consol\obj\Debug\HW_3_4_Consol.pdb

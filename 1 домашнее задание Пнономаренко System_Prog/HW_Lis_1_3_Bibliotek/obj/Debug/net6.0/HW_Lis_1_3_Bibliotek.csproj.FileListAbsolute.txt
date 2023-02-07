@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\HW_Lis_1_3_Bibliotek\bin\Debug\net6.0\HW_Lis_1_3_Bibliotek.deps.json
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\HW_Lis_1_3_Bibliotek\bin\Debug\net6.0\HW_Lis_1_3_Bibliotek.dll
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\HW_Lis_1_3_Bibliotek\bin\Debug\net6.0\HW_Lis_1_3_Bibliotek.pdb
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\HW_Lis_1_3_Bibliotek\obj\Debug\net6.0\HW_Lis_1_3_Bibliotek.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\HW_Lis_1_3_Bibliotek\obj\Debug\net6.0\HW_Lis_1_3_Bibliotek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\HW_Lis_1_3_Bibliotek\obj\Debug\net6.0\HW_Lis_1_3_Bibliotek.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\HW_Lis_1_3_Bibliotek\obj\Debug\net6.0\HW_Lis_1_3_Bibliotek.AssemblyInfo.cs
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\HW_Lis_1_3_Bibliotek\obj\Debug\net6.0\HW_Lis_1_3_Bibliotek.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\HW_Lis_1_3_Bibliotek\obj\Debug\net6.0\HW_Lis_1_3_Bibliotek.dll
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\HW_Lis_1_3_Bibliotek\obj\Debug\net6.0\refint\HW_Lis_1_3_Bibliotek.dll
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\HW_Lis_1_3_Bibliotek\obj\Debug\net6.0\HW_Lis_1_3_Bibliotek.pdb
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\HW_Lis_1_3_Bibliotek\obj\Debug\net6.0\ref\HW_Lis_1_3_Bibliotek.dll

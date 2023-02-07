@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\HW_Lis_1_3_ModuleInAction\bin\Debug\net6.0\HW_Lis_1_3_ModuleInAction.exe
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\HW_Lis_1_3_ModuleInAction\bin\Debug\net6.0\HW_Lis_1_3_ModuleInAction.deps.json
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\HW_Lis_1_3_ModuleInAction\bin\Debug\net6.0\HW_Lis_1_3_ModuleInAction.runtimeconfig.json
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\HW_Lis_1_3_ModuleInAction\bin\Debug\net6.0\HW_Lis_1_3_ModuleInAction.dll
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\HW_Lis_1_3_ModuleInAction\bin\Debug\net6.0\HW_Lis_1_3_ModuleInAction.pdb
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\HW_Lis_1_3_ModuleInAction\obj\Debug\net6.0\HW_Lis_1_3_ModuleInAction.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\HW_Lis_1_3_ModuleInAction\obj\Debug\net6.0\HW_Lis_1_3_ModuleInAction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\HW_Lis_1_3_ModuleInAction\obj\Debug\net6.0\HW_Lis_1_3_ModuleInAction.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\HW_Lis_1_3_ModuleInAction\obj\Debug\net6.0\HW_Lis_1_3_ModuleInAction.AssemblyInfo.cs
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\HW_Lis_1_3_ModuleInAction\obj\Debug\net6.0\HW_Lis_1_3_ModuleInAction.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\HW_Lis_1_3_ModuleInAction\obj\Debug\net6.0\HW_Lis_1_3_ModuleInAction.dll
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\HW_Lis_1_3_ModuleInAction\obj\Debug\net6.0\refint\HW_Lis_1_3_ModuleInAction.dll
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\HW_Lis_1_3_ModuleInAction\obj\Debug\net6.0\HW_Lis_1_3_ModuleInAction.pdb
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\HW_Lis_1_3_ModuleInAction\obj\Debug\net6.0\HW_Lis_1_3_ModuleInAction.genruntimeconfig.cache
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\HW_Lis_1_3_ModuleInAction\obj\Debug\net6.0\ref\HW_Lis_1_3_ModuleInAction.dll
