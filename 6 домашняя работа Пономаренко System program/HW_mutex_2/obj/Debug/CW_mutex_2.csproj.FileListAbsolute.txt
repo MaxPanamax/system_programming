@@ -1,0 +1,22 @@
+C:\Users\218 student\source\repos\CW_mutex_2\bin\Debug\CW_mutex_2.exe.config
+C:\Users\218 student\source\repos\CW_mutex_2\bin\Debug\CW_mutex_2.exe
+C:\Users\218 student\source\repos\CW_mutex_2\bin\Debug\CW_mutex_2.pdb
+C:\Users\218 student\source\repos\CW_mutex_2\obj\Debug\CW_mutex_2.csproj.AssemblyReference.cache
+C:\Users\218 student\source\repos\CW_mutex_2\obj\Debug\CW_mutex_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\218 student\source\repos\CW_mutex_2\obj\Debug\CW_mutex_2.Form1.resources
+C:\Users\218 student\source\repos\CW_mutex_2\obj\Debug\CW_mutex_2.Properties.Resources.resources
+C:\Users\218 student\source\repos\CW_mutex_2\obj\Debug\CW_mutex_2.csproj.GenerateResource.cache
+C:\Users\218 student\source\repos\CW_mutex_2\obj\Debug\CW_mutex_2.csproj.CoreCompileInputs.cache
+C:\Users\218 student\source\repos\CW_mutex_2\obj\Debug\CW_mutex_2.exe
+C:\Users\218 student\source\repos\CW_mutex_2\obj\Debug\CW_mutex_2.pdb
+C:\Users\User\Desktop\домашняя работа\Системное програмирование матерьял\работа в классе\CW_mutex_2\bin\Debug\CW_mutex_2.exe.config
+C:\Users\User\Desktop\домашняя работа\Системное програмирование матерьял\работа в классе\CW_mutex_2\bin\Debug\CW_mutex_2.exe
+C:\Users\User\Desktop\домашняя работа\Системное програмирование матерьял\работа в классе\CW_mutex_2\bin\Debug\CW_mutex_2.pdb
+C:\Users\User\Desktop\домашняя работа\Системное програмирование матерьял\работа в классе\CW_mutex_2\obj\Debug\CW_mutex_2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\домашняя работа\Системное програмирование матерьял\работа в классе\CW_mutex_2\obj\Debug\CW_mutex_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\домашняя работа\Системное програмирование матерьял\работа в классе\CW_mutex_2\obj\Debug\CW_mutex_2.Form1.resources
+C:\Users\User\Desktop\домашняя работа\Системное програмирование матерьял\работа в классе\CW_mutex_2\obj\Debug\CW_mutex_2.Properties.Resources.resources
+C:\Users\User\Desktop\домашняя работа\Системное програмирование матерьял\работа в классе\CW_mutex_2\obj\Debug\CW_mutex_2.csproj.GenerateResource.cache
+C:\Users\User\Desktop\домашняя работа\Системное програмирование матерьял\работа в классе\CW_mutex_2\obj\Debug\CW_mutex_2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\домашняя работа\Системное програмирование матерьял\работа в классе\CW_mutex_2\obj\Debug\CW_mutex_2.exe
+C:\Users\User\Desktop\домашняя работа\Системное програмирование матерьял\работа в классе\CW_mutex_2\obj\Debug\CW_mutex_2.pdb
