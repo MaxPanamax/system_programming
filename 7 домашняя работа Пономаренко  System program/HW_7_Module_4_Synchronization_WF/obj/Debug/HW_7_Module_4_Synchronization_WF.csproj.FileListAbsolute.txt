@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\HW_7_Module_4_Synchronization_WF\bin\Debug\HW_7_Module_4_Synchronization_WF.exe.config
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\HW_7_Module_4_Synchronization_WF\bin\Debug\HW_7_Module_4_Synchronization_WF.exe
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\HW_7_Module_4_Synchronization_WF\bin\Debug\HW_7_Module_4_Synchronization_WF.pdb
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\HW_7_Module_4_Synchronization_WF\obj\Debug\HW_7_Module_4_Synchronization_WF.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\HW_7_Module_4_Synchronization_WF\obj\Debug\HW_7_Module_4_Synchronization_WF.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\HW_7_Module_4_Synchronization_WF\obj\Debug\HW_7_Module_4_Synchronization_WF.Form1.resources
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\HW_7_Module_4_Synchronization_WF\obj\Debug\HW_7_Module_4_Synchronization_WF.Properties.Resources.resources
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\HW_7_Module_4_Synchronization_WF\obj\Debug\HW_7_Module_4_Synchronization_WF.csproj.GenerateResource.cache
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\HW_7_Module_4_Synchronization_WF\obj\Debug\HW_7_Module_4_Synchronization_WF.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\HW_7_Module_4_Synchronization_WF\obj\Debug\HW_7_Module_4_Synchronization_WF.exe
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\HW_7_Module_4_Synchronization_WF\obj\Debug\HW_7_Module_4_Synchronization_WF.pdb
